@@ -26,3 +26,5 @@ curl http://localhost:8081
 
 
 ![Zrzut ekranu 2025-03-30 150615](https://github.com/user-attachments/assets/95ede240-bbfd-4d85-9bf8-bb5832d00ee1)
+
+![image](https://github.com/user-attachments/assets/5208eba0-0b5b-46fc-8574-1be7877bdeb7)
