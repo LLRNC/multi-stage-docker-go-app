@@ -18,10 +18,3 @@ docker run -d -p 8081:80 --name testapp3 wersja:v3
 ```bash
 curl http://localhost:8081
 ```
-
-Powinieneś zobaczyć coś takiego:
-```
-IP serwera: 172.17.0.2
-Hostname: 7f3a1c...
-Wersja aplikacji: 1.2.3
-```
